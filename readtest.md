@@ -1,6 +1,6 @@
 ![](http://www.faeterj-rio.edu.br/wp-content/uploads/2014/05/logo_banner01.jpg)
 
-| [DETALHES](#objetivos) | [SITE](http://faeterj-rio.edu.br "SITE")  | [PÁGINA](https://www.facebook.com/faeterj.campusrio/ "PÁGINA")  | [DOCUMENTAÇÃO]()  | [LICENÇA](#license)  | [CRÉDITOS](#equipe-de-desenvolvimento) |
+| [DETALHES](#objetivos) | [SITE](http://faeterj-rio.edu.br "SITE")  | [PÁGINA](https://www.facebook.com/faeterj.campusrio/ "PÁGINA")  | [DOCUMENTAÇÃO](#)  | [LICENÇA](#license)  | [CRÉDITOS](#equipe-de-desenvolvimento) |
 | :------------: | :-------------: | :------------: | :------------: | :------------: | :-------------: |
 # ChatBot FAETERJ-Rio
 
