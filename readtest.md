@@ -1,6 +1,6 @@
 ![](http://www.faeterj-rio.edu.br/wp-content/uploads/2014/05/logo_banner01.jpg)
 
-| [DETALHES]() | [SITE](http://faeterj-rio.edu.br "SITE")  | [PÁGINA](https://www.facebook.com/faeterj.campusrio/ "PÁGINA")  | [DOCUMENTAÇÃO]()  | [LICENÇA](#License_64)  | [CRÉDITOS]() |
+| [DETALHES](#objetivos) | [SITE](http://faeterj-rio.edu.br "SITE")  | [PÁGINA](https://www.facebook.com/faeterj.campusrio/ "PÁGINA")  | [DOCUMENTAÇÃO]()  | [LICENÇA](#license)  | [CRÉDITOS](#equipe-de-desenvolvimento) |
 | :------------: | :-------------: | :------------: | :------------: | :------------: | :-------------: |
 # ChatBot FAETERJ-Rio
 
@@ -11,6 +11,7 @@ Tem como objetivo desenvolver um chatbot para automatizar a comunicação via m�
 O Facebook Messenger foi a plataforma escolhida para o desenvolvimento pois além de fornecer suporte aos chatbots, possui o maior fluxo de mensagens entre usuários e a equipe de comunicação da faculdade.
 
 > "Trocar mensagens são umas das poucas coisas que as pessoas fazem mais do que usar as redes sociais."
+>   
 >   — ***Mark Zuckerberg**, The Verge
 
 
